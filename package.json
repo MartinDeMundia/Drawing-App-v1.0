@@ -1,7 +1,7 @@
 {
-  "name": "flatdraw",
-  "version": "1.0.7",
-  "author": "Diogo Capela",
+  "name": "drawing-application",
+  "version": "1.0",
+  "author": "Martin M. Mundia",
   "license": "MIT",
   "scripts": {
     "clean": "rm -rf dist && rm -rf out && rm -rf node_modules",
