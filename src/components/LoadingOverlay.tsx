@@ -11,7 +11,7 @@ const Div = styled.div`
   bottom: 0;
   left: 0;
   right: 0;
-  background: #191a1b;
+  background: white;
   z-index: ${theme.layers.loadingOverlay};
   display: flex;
   flex-direction: column;
