@@ -1,8 +1,8 @@
-import { Loader } from '@mantine/core';
+//import { Loader } from '@mantine/core';
 import React from 'react';
 import styled from 'styled-components';
 
-import metadata from '~/config/metadata';
+//import metadata from '~/config/metadata';
 import theme from '~/theme';
 
 const Div = styled.div`
