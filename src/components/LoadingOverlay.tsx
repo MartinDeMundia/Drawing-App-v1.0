@@ -19,18 +19,19 @@ const Div = styled.div`
   justify-content: center;
 `;
 
-const LogoImg = styled.img`
-  width: 120px;
-  margin-bottom: 1.5rem;
-`;
+// const LogoImg = styled.img`
+//   width: 120px;
+//   margin-bottom: 1.5rem;
+// `;
 
 export default function LoadingOverlay() {
   return (
     <Div>
-      <LogoImg src="/images/logo/logo-dark.png" alt={`${metadata.website.name} logo`} />
+      Loading Drawing app Please wait...
+      {/* <LogoImg src="/images/logo/logo-dark.png" alt={`${metadata.website.name} logo`} />
       <div>
         <Loader />
-      </div>
+      </div> */}
     </Div>
   );
 }
